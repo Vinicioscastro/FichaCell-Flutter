@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107296317112",
+    "project_id": "fichacell-9b50d",
+    "storage_bucket": "fichacell-9b50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107296317112:android:2182fbe3949e742dbdde4d",
+        "android_client_info": {
+          "package_name": "com.fichacell.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107296317112-0pq4mdmjnbmof8rdgf0nbh8fv5mk19se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNsyu-UF8iciYt6pWZT398ahj6kRohDno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107296317112-0pq4mdmjnbmof8rdgf0nbh8fv5mk19se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
